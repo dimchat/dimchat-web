@@ -1,16 +1,10 @@
-
-TITLE: 
-Elate - One Page Responsive Free HTML5 template
-
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+This is the official website of dim.chat.
 
 
 CREDITS:
+
+FREEHTML5.co (Template: Elate)
+http://freehtml5.co/
 
 Bootstrap
 http://getbootstrap.com/
